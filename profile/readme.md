@@ -9,7 +9,7 @@
 ➣ You can contact me at: `hello@dibster-is-a.engineer`, my Discord `DIBSTER#231`7, or my Twitter `@DEV_DIBSTER`.
 
 ➣ If you want to view my main profile, you can find it here: [DEV-DIBSTER](https://github.com/DEV-DIBSTER).
-# Projects:
+# 📜 Projects:
 
 - [File Renamer](https://github.com/DIBSTER-Archives/Files-In-Folder-Renamer)
   - This project was a simple way to rename files in a folder with UUIDs to easily store in a CDN.
