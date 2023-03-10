@@ -1,10 +1,14 @@
 <!-- ![DIBSTER Archives](/Assets/Images/DIBSTER Archives.png) -->
 
-<img src="https://dibster.live/Assets/DIBSTER-2.png" alt="DIBSTER Profile Picture" width="200" align="right"/>
+<img src="https://dibster.live/Assets/DIBSTER-2.png" alt="DIBSTER Profile Picture" width="250" align="right"/>
 
-# Links:
-* [Website](https://dibster.live)
+# 😃 Information:
 
+➣ This organization contains projects and code I no longer want to keep on my main GitHub profile, and just want some place random to toss it. Most of this code is outdated from projects I no longer have interests in, or are too old to be considered worthy of close source. Located below are a list of repositories that I've made public.
+
+➣ You can contact me at: `hello@dibster-is-a.engineer`, my Discord `DIBSTER#231`7, or my Twitter `@DEV_DIBSTER`.
+
+➣ If you want to view my main profile, you can find it here: [DEV-DIBSTER](https://github.com/DEV-DIBSTER).
 # Projects:
 
 - [File Renamer](https://github.com/DIBSTER-Archives/Files-In-Folder-Renamer)
