@@ -1,6 +1,6 @@
 <!-- ![DIBSTER Archives](/Assets/Images/DIBSTER Archives.png) -->
 
-<img src="https://dibster.live/Assets/DIBSTER-2.png" alt="DIBSTER Profile Picture" width="400" align="right"/>
+<img src="https://dibster.live/Assets/DIBSTER-2.png" alt="DIBSTER Profile Picture" width="200" align="right"/>
 
 # Links:
 * [Website](https://dibster.live)
