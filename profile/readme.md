@@ -9,6 +9,7 @@
 ➣ You can contact me at: `hello@dibster-is-a.engineer`, my Discord `DIBSTER#231`7, or my Twitter `@DEV_DIBSTER`.
 
 ➣ If you want to view my main profile, you can find it here: [DEV-DIBSTER](https://github.com/DEV-DIBSTER).
+
 # 📜 Projects:
 
 - [File Renamer](https://github.com/DIBSTER-Archives/Files-In-Folder-Renamer)
@@ -22,3 +23,7 @@
 
 - [Pterodactyl Bot](https://github.com/DIBSTER-Archives/Public-Pterodactyl-Discord-Bot)
   - This was an unfinished Discord Bot that would be used in a host like server. Never finished as DiscordJS V13 became obsolete. 
+
+# 🔐 License:
+- Distributed under the Apache-2.0 license. See LICENSE.md for more information.
+- Ask you include credits when you are using this. Link back to this repository or state my GitHub name.
