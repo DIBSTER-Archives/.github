@@ -6,7 +6,7 @@
 
 ➣ This organization contains projects and code I no longer want to keep on my main GitHub profile, and just want some place random to toss it. Most of this code is outdated from projects I no longer have interests in, or are too old to be considered worthy of close source. Located below are a list of repositories that I've made public.
 
-➣ You can contact me at: `hello@dibster-is-a.engineer`, my Discord `DIBSTER#231`7, or my Twitter `@DEV_DIBSTER`.
+➣ You can contact me at: `hello@dibster-is-a.engineer`, my Discord `DIBSTER#2317`, or my Twitter `@DEV_DIBSTER`.
 
 ➣ If you want to view my main profile, you can find it here: [DEV-DIBSTER](https://github.com/DEV-DIBSTER).
 
