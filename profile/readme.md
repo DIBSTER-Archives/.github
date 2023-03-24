@@ -22,7 +22,10 @@
   - This was a bot I modified to use for LS Gaming. It was around the peak of 2020-2021.
 
 - [Pterodactyl Bot](https://github.com/DIBSTER-Archives/Public-Pterodactyl-Discord-Bot)
-  - This was an unfinished Discord Bot that would be used in a host like server. Never finished as DiscordJS V13 became obsolete. 
+  - This was an unfinished Discord Bot that would be used in a host like server. Never finished as DiscordJS V13 became obsolete.
+ 
+- [Colette Bot](https://github.com/DIBSTER-Archives/Colette-Bot)
+  - My first working Discord Stats Bot. Used to get analytics from Brawl Stars and Brawlify API. Thanks to Bimi and Dest for helping me with it.
 
 # 🔐 License:
 - Distributed under the Apache-2.0 license. See LICENSE.md for more information.
